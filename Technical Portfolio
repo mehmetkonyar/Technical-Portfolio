@@ -78,3 +78,7 @@ Advanced Materials | Energy | Composites | Defense-Relevant Technologies
 *Confidential – shared for recruitment evaluation purposes only*
 
 _config.yml
+
+theme: jekyll-theme-minimal
+title: Mehmet Konyar – Technical Portfolio
+
